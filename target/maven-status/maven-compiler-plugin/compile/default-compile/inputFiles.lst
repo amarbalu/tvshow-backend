@@ -1,0 +1,8 @@
+/Users/amarkirethi/Downloads/FullStack_FTE/tvshow-backend/src/main/java/com/banyan/tvshow_backend/TvShowBackendApplication.java
+/Users/amarkirethi/Downloads/FullStack_FTE/tvshow-backend/src/main/java/com/banyan/tvshow_backend/client/TvMazeClient.java
+/Users/amarkirethi/Downloads/FullStack_FTE/tvshow-backend/src/main/java/com/banyan/tvshow_backend/config/SecurityConfig.java
+/Users/amarkirethi/Downloads/FullStack_FTE/tvshow-backend/src/main/java/com/banyan/tvshow_backend/controller/TvShowController.java
+/Users/amarkirethi/Downloads/FullStack_FTE/tvshow-backend/src/main/java/com/banyan/tvshow_backend/dto/TvShowDetails.java
+/Users/amarkirethi/Downloads/FullStack_FTE/tvshow-backend/src/main/java/com/banyan/tvshow_backend/model/TvShow.java
+/Users/amarkirethi/Downloads/FullStack_FTE/tvshow-backend/src/main/java/com/banyan/tvshow_backend/repository/TvShowRepository.java
+/Users/amarkirethi/Downloads/FullStack_FTE/tvshow-backend/src/main/java/com/banyan/tvshow_backend/service/TvShowService.java

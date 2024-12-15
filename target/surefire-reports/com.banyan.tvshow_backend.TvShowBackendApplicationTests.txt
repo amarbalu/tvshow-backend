@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.banyan.tvshow_backend.TvShowBackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.813 s -- in com.banyan.tvshow_backend.TvShowBackendApplicationTests
