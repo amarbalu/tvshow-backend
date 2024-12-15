@@ -1,4 +1,4 @@
-
+cat > README.md << EOF
 # **TV Shows Web Application**
 
 This project is a full-stack application that allows users to list and view details of TV shows. It is split into the following components:
@@ -64,14 +64,14 @@ The TV Shows Web Application provides the following features:
 
 2. Clone the frontend repository:
 
-   cd tvshow-frontend
+   rmdir tvshow-frontend
    
    git clone https://github.com/amarbalu/tvshow-frontend.git
 
 
 4. Clone the backend repository:
 
-   cd tvshow-backend
+   rmdir tvshow-backend
    
    git clone https://github.com/amarbalu/tvshow-backend.git
 
